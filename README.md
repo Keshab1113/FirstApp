@@ -1,3 +1,7 @@
+![Screenshot_20241102-174157 1](https://github.com/user-attachments/assets/9e76fcfa-5dc5-4a82-ac70-632fe6699987)
+![Screenshot_20241102-174150 1](https://github.com/user-attachments/assets/0388f22c-8ae7-4418-934a-d583b61ebaf0)
+![Screenshot_20241102-174144 1](https://github.com/user-attachments/assets/71be1324-cfc2-4b12-be53-9da36331f1de)
+![Screenshot_20241102-174137 1](https://github.com/user-attachments/assets/0da793d4-e7ed-4c90-b9e6-fc48b894b7c1)
 This is a new [**React Native**](https://reactnative.dev) project, bootstrapped using [`@react-native-community/cli`](https://github.com/react-native-community/cli).
 
 # Getting Started
